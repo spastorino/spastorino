@@ -12,8 +12,8 @@ Here's a summary of my mostly noteworthy contributions:
 - Rust Compiler Const-Eval - Implemented inline consts RFC 2920.
 - Rust Compiler Traits and Type System - Working as a member of the Traits working group, with a main focus on getting Type Alias Impl Traits stabilized.
 - Rustc Dev Guide: Leading the working group, writing and helping organizing the documentation effort.
-- Lead Prioritization working group: prioritizing Rust compiler issues and supporting the Rust compiler team meetings.
-- Lead Meta working group: helped organize the MCP process and the Rust compiler structure.
+- Lead Rustc Prioritization working group: prioritizing Rust compiler issues, fixed a lot of critical and high priority issues and support for the Rust compiler and Rust Lang team meetings.
+- Lead Rustc Meta working group: helped organize the MCP process and the Rust compiler structure.
 - Cargo Bisect Rustc: automated the tool to find regressions in the Rust compiler in a simpler way.
 - Lead organizer of Rust Latam conference, member of Rustfest European conference and member of RustConf Program Committee.
 
