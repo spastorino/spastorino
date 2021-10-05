@@ -1,6 +1,6 @@
 # Santiago Pastorino - @spastorino
 
-:wave:, my name is Santiago Pastorino and I'm a software engineer from Uruguay. I'm a co-founder at [WyeWorks](https://wyeworks.com), a [Rust compiler team core contributor](https://www.rust-lang.org/governance/teams/compiler), Rust conferences organizer ([RustLatam](https://www.rustlatam.org/), [RustFest](https://rustfest.global/) and [RustConf](https://rustconf.com/)) and a Ruby on Rails core team alumni.
+:wave:, my name is Santiago Pastorino and I'm a software engineer from Uruguay. I'm a co-founder at [WyeWorks](https://wyeworks.com), a [Rust compiler team core contributor](https://www.rust-lang.org/governance/teams/compiler), Rust conferences organizer ([RustLatam](https://www.rustlatam.org/), [RustFest](https://rustfest.global/) and [RustConf](https://rustconf.com/)) and a Ruby on Rails core team alumni. I'm currently sponsored to work on the [Rust](https://www.rust-lang.org/) compiler by [Futurewei](https://futurewei.com/).
 
 ## Rust
 
