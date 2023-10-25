@@ -10,7 +10,7 @@ Here's a summary of my mostly noteworthy contributions:
 
 - Rust Compiler RPITIT refactor - Refactored RPITIT code to lower RPITs in traits as a GAT.
 - Rust Compiler MIR - Helped with Non-Lexical Lifetimes (NLL) implementation; implemented various MIR optimizations including MIR 2.0 Place refactor.
-- Rust Compiler negative impls in coherence - Implemented the first version of negative impls in coherence that allowed errors be moved into core.
+- Rust Compiler negative impls in coherence - Implemented the first version of negative impls in coherence that allowed the Error trait to be moved into core.
 - Rust Compiler Const-Eval - Implemented a first minimal version of inline consts RFC 2920.
 - Rustc Dev Guide: Leading the working group, writing and helping organizing the documentation effort.
 - Lead Rustc Prioritization working group: prioritizing Rust compiler issues, fixed a lot of critical and high priority issues and support for the Rust compiler and Rust Lang team meetings.
